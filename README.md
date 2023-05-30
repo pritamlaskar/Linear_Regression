@@ -3,4 +3,5 @@ A statistical measure that attempts to determine the strengths of the relationsh
 </br> </br>Here are some projects that I have done using linear regression of sci-kit learn library of python:
 </br>
 </br>
-• **LinearRegression_InterestRate** : Here we try to predict the interest for bank loans.
+• **LinearRegression_InterestRate** : Here we try to predict the interest for bank loans. </br>
+• **LinearRegression_LabourEarning** : We predict earning rate of labours, data from Govt of India's Ministry of Labour. Includes LinearRegression, OLS, StandardScaler, and basic EDA (data cleaning, multicollinearity, and data visualisation.)
