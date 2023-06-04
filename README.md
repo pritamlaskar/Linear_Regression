@@ -5,4 +5,4 @@ A statistical measure that attempts to determine the strengths of the relationsh
 </br>
 • ***LinearRegression_InterestRate*** : Here we try to predict the interest for bank loans. </br>
 • ***LinearRegression_LabourEarning*** : We predict earning rate of labours, data from Govt of India's Ministry of Labour. Includes LinearRegression, OLS, StandardScaler, and basic EDA (data cleaning, multicollinearity, and data visualisation).</br>
-• ***LinearRegression_WalmartSales***: We take Walmart Sales dataset from Kaggle and perform basic EDA and make Linear Regression model and OLS using sklearn and statsmodels respectively.
+• ***LinearRegression_WalmartSales***: We take Walmart Sales dataset from Kaggle and perform basic EDA and make Linear Regression model and OLS using sklearn and statsmodels respectively. We also check for multicollinearity using VIF.
